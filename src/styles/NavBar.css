@@ -1,0 +1,29 @@
+.logo {
+    width: 60px;
+    height: 60px;
+}
+*{
+    margin: 0%;
+    padding: 0;
+}
+.navBar {
+    list-style-type: none;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-bottom: 1px black solid;
+}
+.menuItem {
+    text-decoration: none;
+    color: black;
+    margin: 0 20px;
+}
+.menuStyle {
+    
+    display: flex;
+    justify-content: space-between;
+}
+.cart {
+    width: 30px;
+    height: 30px;
+}
